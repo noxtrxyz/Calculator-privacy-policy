@@ -8,7 +8,7 @@ Calculator does not collect any user data.
 
 <h2>Children’s Privacy</h2>
 
-These Services do not address anyone under the age of 13. This app collect personally identifiable information from children under 13. 
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
 
 <h2>Changes to This Privacy Policy</h2>
 
